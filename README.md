@@ -1,16 +1,17 @@
 ### Hi, I'm Jeff 👋
 
-**Build with AI & Design with Passion.**
-AI Agent Architect · Indie iOS Maker · UI Perfectionist
-*Current focus: transforming intent into verified execution.*
+Product Manager who codes. Vibe coding enthusiast.
+**Enable auto mode. Stay curious. Keep creating.**
 
 ---
 
-🛠 **求码 · RedeemCode** — App Store redeem code manager for indie developers
-&nbsp;&nbsp;&nbsp;&nbsp;[![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=flat-square&logo=apple)](https://curisaas.com)
+🛠 &nbsp;**[求码 · RedeemCode](https://curisaas.com)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App Store redeem code manager built for indie developers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=flat-square&logo=apple&logoColor=white)](https://curisaas.com)
 
-🗓 **release-calendar-skill** — Auto-generate "Everything X shipped in N days" posters from real tweets
-&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-jefflinshu%2Frelease--calendar--skill-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/release-calendar-skill)
+🗓 &nbsp;**[release-calendar-skill](https://github.com/jefflinshu/release-calendar-skill)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claude Code skill · auto-generate shipping velocity posters from X
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Open%20Source-jefflinshu-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/release-calendar-skill)
 
 ---
 
@@ -19,4 +20,4 @@ AI Agent Architect · Indie iOS Maker · UI Perfectionist
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-[![X](https://img.shields.io/badge/x.com%2Fjefflinshu-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jefflinshu)
+[![X](https://img.shields.io/badge/jefflinshu-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jefflinshu)
