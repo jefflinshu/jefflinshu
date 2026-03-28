@@ -16,4 +16,12 @@ python ███████░░░░░░░  50%
 ts     █████░░░░░░░░░  35%
 ```
 
+---
+
+**// recent work**
+
+[![release-calendar-skill](https://github-readme-stats.vercel.app/api/pin/?username=jefflinshu&repo=release-calendar-skill&theme=graywhite&hide_border=true&description_lines_count=2)](https://github.com/jefflinshu/release-calendar-skill)
+
+---
+
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=jefflinshu&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" /><img height="130" src="https://streak-stats.demolab.com?user=jefflinshu&theme=default&hide_border=true&hide_title=true" />
