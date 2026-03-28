@@ -1,7 +1,8 @@
 ### Hi, I'm Jeff 👋
 
-AI tools developer & indie iOS maker based in China.
-Building fast with Claude Code. Shipping to the App Store.
+**Build with AI & Design with Passion.**
+AI Agent Architect · SaaS Builder · UI Perfectionist
+*Current focus: transforming intent into verified execution.*
 
 ---
 
