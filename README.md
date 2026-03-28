@@ -1,28 +1,31 @@
-```yaml
-name: Jeff Lin
-location: China
-focus: iOS / macOS · Claude Code Skills · AI tooling
-building: fast
-```
+### Hi, I'm Jeff 👋
 
-[![X](https://img.shields.io/badge/x.com-jefflinshu-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jefflinshu)
-&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jefflinshu.jefflinshu&style=flat-square)
+AI tools developer & indie iOS maker based in China.
+Building fast with Claude Code. Shipping to the App Store.
+
+---
+
+**Apps on the App Store**
+
+| App | Description |
+|-----|-------------|
+| [求码 · RedeemCode](https://curisaas.com) | App Store redeem code manager |
+| [Becoming](https://curisaas.com) | Habit & todo tracker |
+| [Mora AI](https://curisaas.com) | AI companion |
+| [FitCheck](https://curisaas.com) | Fitness logger |
+| [Typemate](https://curisaas.com) | Text automation |
+
+---
+
+**Claude Code Skills**
+
+[![release-calendar-skill](https://img.shields.io/badge/release--calendar--skill-auto--generate%20shipping%20velocity%20posters-black?style=flat-square&logo=github)](https://github.com/jefflinshu/release-calendar-skill)
 
 ---
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-006EFF?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
----
-
-**// recent work**
-
-[![release-calendar-skill](https://github-readme-stats.vercel.app/api/pin/?username=jefflinshu&repo=release-calendar-skill&theme=graywhite&hide_border=true)](https://github.com/jefflinshu/release-calendar-skill)
-
----
-
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=jefflinshu&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" /><img height="130" src="https://streak-stats.demolab.com?user=jefflinshu&theme=default&hide_border=true&hide_title=true" />
+[![X](https://img.shields.io/badge/x.com-jefflinshu-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jefflinshu)
