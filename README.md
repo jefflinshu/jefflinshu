@@ -13,6 +13,10 @@ Product Manager who codes. Vibe coding enthusiast.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claude Code skill · auto-generate shipping velocity posters from X
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Open%20Source-jefflinshu-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/release-calendar-skill)
 
+✍️ &nbsp;**[work-briefs](https://github.com/jefflinshu/work-briefs)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codex skills · turn messy product and workplace context into crisp business docs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Open%20Source-work--briefs-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/work-briefs)
+
 ---
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
@@ -21,3 +25,4 @@ Product Manager who codes. Vibe coding enthusiast.
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 [![X](https://img.shields.io/badge/jefflinshu-000?style=flat-square&logo=x&logoColor=white)](https://x.com/jefflinshu)
+[![x-1.dev](https://img.shields.io/badge/x--1.dev-111?style=flat-square&logo=safari&logoColor=white)](https://x-1.dev)
