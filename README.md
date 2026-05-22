@@ -17,6 +17,11 @@ Product Manager who codes. Vibe coding enthusiast.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codex skills · turn messy product and workplace context into crisp business docs
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Open%20Source-work--briefs-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/work-briefs)
 
+🎤 &nbsp;**[TelePrompt](https://github.com/jefflinshu/teleprompt)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free online teleprompter with real-time voice tracking · 免费在线提词器
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Open%20Source-TelePrompt-181717?style=flat-square&logo=github)](https://github.com/jefflinshu/teleprompt)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Vercel](https://img.shields.io/badge/Live-Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://teleprompt-gold.vercel.app)
+
 ---
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
